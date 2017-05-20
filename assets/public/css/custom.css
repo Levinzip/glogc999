@@ -1,0 +1,81 @@
+
+        #intro {
+            margin-bottom: 0px;
+            background-color: rgba(71, 71, 71, 0.59);
+        }
+
+        .glyphicon-color {
+            color: #09aebb;
+        }
+
+        .about-text-color {
+            color: black;
+        }
+        #intro-whereto {
+            padding-right: 40px;
+            padding-left: 40px; 
+        }
+
+        .sign-up-button {
+            padding-right: 40px;
+            padding-left: 40px; 
+        }
+
+        #coming-soon-text {
+            color: black;
+        }
+        #register-jumbotron {
+            background-color: #f15a5b;
+        }
+        .verticalLine {
+            border-left: thick solid #ff0000;
+        }
+        .jumbotron {
+            margin-bottom: 0px;
+        }
+        #golog-logo {
+            color: #f15a5b !important;
+            font-size: 1.5em;
+        }
+        #golog-log {
+            font-size: 1.5em;
+            color: white;
+        }
+        #about-section-jumbotron {
+            color: rgba(71, 71, 71, 0.59);
+        }
+        .modal-title, .modal-body {
+            color: black;
+        }
+        #footer-jumbotron {
+            background-color: #222222;
+        }
+        #driver-signup {
+            background-image: url(../img/driver.jpg); 
+            background-size: 100%;
+        }
+        #user-signup {
+            background-image: url(../img/deliver.jpg); 
+            background-size: 100%;
+        }
+        .light {
+        font-weight: 400;
+        }
+        .top-navigation .navbar-brand {
+            background: #282828;
+        }
+        #navbar {
+            background-color: #282828;
+        }
+
+        .top-navigation .nav > li a:hover, .top-navigation .nav > li a {
+            color: white;
+        }
+
+        .top-navigation .nav > li a:hover, .top-navigation .nav > li a:focus {
+            color: #c0a375;
+            background: none; 
+        }
+        .dropdown-menu {
+            background: #282828;
+        }
